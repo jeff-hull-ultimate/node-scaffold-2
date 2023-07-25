@@ -1,4 +1,4 @@
-site_name: "Jeff's Backstage Site Docs"
+site_name: "Test Site"
 nav:
   - Home: index.md
   - About: about.md
