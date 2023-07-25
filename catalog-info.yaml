@@ -8,3 +8,4 @@ spec:
   type: service
   owner: user:guest
   lifecycle: experimental
+  system: "developer-acceleration"
