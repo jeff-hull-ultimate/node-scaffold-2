@@ -3,8 +3,6 @@ nav:
   - Home: index.md
   - About: about.md
   - Contributing: contributing
-# nav:
-#   - Home: index.md
-
+docs_dir: docs
 plugins:
   - techdocs-core
