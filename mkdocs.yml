@@ -1,0 +1,10 @@
+site_name: "Jeff's Backstage Site Docs"
+nav:
+  - Home: index.md
+  - About: about.md
+  - Contributing: contributing
+# nav:
+#   - Home: index.md
+
+plugins:
+  - techdocs-core
