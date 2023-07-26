@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: node-scaffold-2
-  description: Test scaffold node 2
+  description: 'Test scaffold node 2'
   annotations:
     github.com/project-slug: jeff-hull-ultimate/node-scaffold-2
     backstage.io/techdocs-ref: dir:.
